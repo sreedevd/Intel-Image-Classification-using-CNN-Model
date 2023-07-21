@@ -18,6 +18,7 @@ Accuracy:79%
 # EfficientNetB7 Model
 To extract more features implemented Efficientnetb7 architecture.
 Accuracy:91.3%
+After finetuning model returned 94.13% of accuracy.
 
 
 
